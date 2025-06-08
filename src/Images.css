@@ -1,0 +1,10 @@
+.overlay-images {
+  position: relative;
+  display: inline;
+}
+
+.front {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
